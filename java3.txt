@@ -1,0 +1,56 @@
+Basic Level:
+
+yes
+
+1.What is Java?
+a) A type of coffee
+b) A programming language
+c) A computer brand
+d) An operating system
+
+Answer:b) A programming language
+
+2.Which keyword is used to declare a variable that cannot be changed after it has been assigned a value?
+a) final
+b) static
+c) const
+d) immutable
+
+Answer:a) final
+
+3.What is the output of the following code?
+int x = 5;
+System.out.println(++x);
+a) 5
+b) 6
+c) 4
+d) 7
+
+Answer: b)4
+
+Intermediate Level:
+
+yes
+
+4.Which of the following statements is true about Java interface?
+a) An interface can contain implementation of methods
+b) A class can implement multiple interfaces
+c) An interface can extend multiple classes
+d) An interface can have constructors
+
+Answer:b) A class can implement multiple interfaces
+
+Advanced Level:
+
+yes
+
+5.What is the difference between checked and unchecked exceptions in Java?
+a) Checked exceptions are caught at compile time, while unchecked exceptions are caught at runtime.
+b) Checked exceptions are caught at runtime, while unchecked exceptions are caught at compile time.
+c) Checked exceptions are subclasses of RuntimeException, while unchecked exceptions are not.
+d) Checked exceptions are subclasses of Error, while unchecked exceptions are subclasses of Exception.
+
+Answer:a) Checked exceptions are caught at compile time, while unchecked exceptions are caught at runtime.
+
+
+

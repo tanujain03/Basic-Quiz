@@ -1,0 +1,69 @@
+Basic Level:
+
+yes
+
+1.What is the primary purpose of a constructor in Java?
+a) To initialize a class variable
+b) To create an object of the class
+c) To define a method in a class
+d) To specify access modifiers
+
+Answer:b) To create an object of the class
+
+2.Which keyword is used to declare a constant in Java?
+a) constant
+b) final
+c) const
+d) static
+
+Answer:b) final
+
+3.What is the output of the following code?
+int x = 5;
+System.out.println(x++);
+a) 5
+b) 6
+c) 4
+d) 7
+
+Answer:b) 6
+
+Intermediate Level:
+
+yes
+
+4.What does JVM stand for?
+a) Java Virtual Machine
+b) Java Visual Machine
+c) Java Virtual Memory
+d) Java Virtual Method
+
+Answer:a) Java Virtual Machine
+
+5.What is the purpose of the static keyword in Java?
+a) To create a new instance of a class
+b) To declare a variable that can be modified by multiple threads
+c) To indicate that a method belongs to the class and not to any specific instance
+d) To make a class immutable
+
+c) To indicate that a method belongs to the class and not to any specific instance
+
+Advanced Level:
+
+yes
+
+6.What is the difference between method overloading and method overriding in Java?
+a) Method overloading allows a subclass to provide a specific implementation of a method, while method overriding does not.
+b) Method overloading occurs when two methods in the same class have the same name but different parameters, while method overriding occurs when a subclass provides a specific implementation for a method defined in its superclass.
+c) Method overloading and method overriding are the same concepts in Java.
+d) Method overloading allows a class to inherit methods from its superclass.
+
+Answer:b) Method overloading occurs when two methods in the same class have the same name but different parameters, while method overriding occurs when a subclass provides a specific implementation for a method defined in its superclass.
+
+7.What is the difference between ArrayList and LinkedList in Java?
+a) ArrayList is faster for insertion and deletion operations.
+b) LinkedList is an ordered collection, while ArrayList is not.
+c) ArrayList is implemented as a resizable array, while LinkedList is implemented as a doubly-linked list.
+d) LinkedList uses less memory than ArrayList.
+
+Answer:c) ArrayList is implemented as a resizable array, while LinkedList is implemented as a doubly-linked list.

@@ -1,0 +1,119 @@
+Question 1: What is Java?
+a) A type of coffee
+b) A programming language
+c) An operating system
+d) A computer brand
+
+Answer: b) A programming language
+
+Question 2: Which of the following is a valid Java identifier (variable name)?
+a) 123variable
+b) _variable
+c) break
+d) my-variable
+
+Answer: b) _variable
+
+Question 3: What is the correct syntax to declare a variable in Java?
+a) int x;
+b) variable x;
+c) x = int;
+d) declare x;
+
+Answer: a) int x;
+
+Question 4: How do you print "Hello, World!" to the console in Java?
+a) System.out.println("Hello, World!");
+b) print("Hello, World!");
+c) console.log("Hello, World!");
+d) echo("Hello, World!");
+
+Answer: a) System.out.println("Hello, World!");
+
+Question 5: Which of the following is not a primitive data type in Java?
+a) int
+b) float
+c) string
+d) boolean
+
+Answer: c) string
+
+Question 6: What is the purpose of the if statement in Java?
+a) To define a class
+b) To declare a variable
+c) To control the flow of a program based on a condition
+d) To create a loop
+
+Answer: c) To control the flow of a program based on a condition
+
+Question 7: Which loop in Java is used for executing a block of code repeatedly as long as a condition is true?
+a) if
+b) for
+c) while
+d) switch
+
+Answer: c) while
+
+Question 8: What is the result of the following expression: 5 + 3 * 2?
+a) 10
+b) 16
+c) 11
+d) 26
+
+Answer: a) 10
+
+Question 9: What is the purpose of the public static void main(String[] args) method in a Java program?
+a) To declare a variable
+b) To print output to the console
+c) To execute the program and serve as the entry point
+d) To define a class
+
+Answer: c) To execute the program and serve as the entry point
+
+Question 10: Which Java keyword is used to create a new instance of a class?
+a) new
+b) class
+c) instance
+d) create
+
+Answer: a) new
+
+Question 11: What does the term "object-oriented programming" mean in Java?
+a) A type of coffee
+b) A programming paradigm that uses objects to represent and manipulate data
+c) A way to write comments in code
+d) A feature that allows code to run faster
+
+Answer: b) A programming paradigm that uses objects to represent and manipulate data
+
+Question 12: What is the Java keyword used to exit a loop prematurely?
+a) exit
+b) break
+c) continue
+d) return
+
+Answer: b) break
+
+Question 13: What is an array in Java?
+a) A type of loop
+b) A collection of variables of different data types
+c) A collection of variables of the same data type
+d) A reserved word in Java
+
+Answer: c) A collection of variables of the same data type
+
+Question 14: What is the default value for an uninitialized int variable in Java?
+a) 0
+b) 1
+c) -1
+d) null
+
+Answer: a) 0
+
+Question 15: What is the purpose of the System.out.println() method in Java?
+a) To read input from the console
+b) To print output to the console
+c) To define a new class
+d) To create a loop
+
+Answer: b) To print output to the console

@@ -1,0 +1,31 @@
+1.What is the difference between checked and unchecked exceptions in Java?
+a) Checked exceptions are caught at compile time, while unchecked exceptions are caught at runtime.
+b) Checked exceptions are caught at runtime, while unchecked exceptions are caught at compile time.
+c) Checked exceptions are subclasses of RuntimeException, while unchecked exceptions are not.
+d) Checked exceptions are subclasses of Error, while unchecked exceptions are subclasses of Exception.
+
+Answer:a) Checked exceptions are caught at compile time, while unchecked exceptions are caught at runtime.
+
+2.What is the purpose of the finally block in exception handling in Java?
+a) To handle exceptions that are not caught by the try block
+b) To execute code regardless of whether an exception is thrown or not
+c) To specify alternative code paths in case an exception occurs
+d) To terminate the program if an exception occurs
+
+Answer:b) To execute code regardless of whether an exception is thrown or not
+
+3.What is the purpose of the synchronized keyword in Java?
+a) To prevent a method from being overridden
+b) To ensure that only one thread can access a method or block at a time
+c) To declare a constant
+d) To create a new thread
+
+Answer:b) To ensure that only one thread can access a method or block at a time
+
+4.What is the difference between HashMap and Hashtable in Java?
+a) HashMap allows null keys and values, while Hashtable does not.
+b) HashMap is synchronized, while Hashtable is not.
+c) HashMap is part of the java.util package, while Hashtable is part of the java.util.concurrent package.
+d) HashMap allows duplicate keys, while Hashtable does not.
+
+Answer:a) HashMap allows null keys and values, while Hashtable does not.

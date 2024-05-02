@@ -1,0 +1,36 @@
+Basic Level:
+
+yes
+
+1.What is the Java keyword used to declare a variable that cannot be changed after it has been assigned a value?
+
+a) final
+b) static
+c) constant
+d) immutable
+
+Answer:a) final
+
+Intermediate Level:
+
+yes
+
+2.What is the purpose of the super keyword in Java?
+a) To access the superclass constructor
+b) To access the superclass methods and variables
+c) To indicate the end of a block of code
+d) To indicate the beginning of a new thread
+
+Answer:b) To access the superclass methods and variables
+
+Advanced Level:
+
+yes
+
+3.Which of the following statements is true about Java interface?
+a) An interface can contain implementation of methods
+b) A class can implement multiple interfaces
+c) An interface can extend multiple classes
+d) An interface can have constructors
+
+Answer:b) A class can implement multiple interfaces
